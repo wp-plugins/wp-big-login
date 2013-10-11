@@ -1,13 +1,21 @@
 <?php
-/*
-Plugin Name: Big-Login
-Plugin URI:
-Description: Let you login with a big number to a custom set URL
-Version: 1.0
-Author: EXED internet (MR,BHdH)
-Author URI: http://www.exed.nl/
-License: GPLv2 or later
-*/
+/**
+ * @package   wp-big-login
+ * @author    EXED Internet <service@exed.nl>
+ * @license   GPL-2.0+
+ * @link      http://exed.nl
+ * @copyright 2013 EXED Internet
+ *
+ * @wordpress-plugin
+ * Plugin Name: wp-big-login
+ * Plugin URI: http://wordpress.org/plugins/wp-big-login/
+ * Description: Let you login with a big number to a custom set URL
+ * Version:     1.0
+ * Author:      EXED Internet
+ * Author URI:  http://exed.nl
+ * License:     GPL-2.0+
+ */
+
 
 /**
  * Require the admin panel
