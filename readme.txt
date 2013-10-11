@@ -1,5 +1,5 @@
 === Big-Login ===
-Contributors: EXED internet
+Contributors: exed internet 
 Version: 1.0
 Tags: login, authentication, Big-Login, Big
 Stable tag: tags/1.0.0
