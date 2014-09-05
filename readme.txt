@@ -61,6 +61,6 @@ The redirect url in case of a successful login can be set through the settings p
 -
 
 == Screenshots ==
-1. The widget
+1. The settings
 
-2. The settings
+2. The widget
