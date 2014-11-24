@@ -10,7 +10,7 @@
  * Plugin Name: wp-big-login
  * Plugin URI: http://wordpress.org/plugins/wp-big-login/
  * Description: Let you login with a big number to a custom set URL
- * Version:     1.1
+ * Version:     1.1.1
  * Author:      EXED Internet
  * Author URI:  http://exed.nl
  * License:     GPL-2.0+
