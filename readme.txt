@@ -1,10 +1,10 @@
 === Big-Login ===
 Contributors: exed internet 
-Version: 1.1.1
+Version: 1.1.2
 Tags: login, authentication, Big-Login, Big
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 Requires at least: 2.5
-Tested up to: 4.0.1
+Tested up to: 4.1.0
 License: GPLv2 or later
 
 == Description ==
@@ -47,6 +47,10 @@ Can I only use a full url as target after successful?
 A: No, it is possible to set a path as well. Make sure you start with a "/".
 
 == Change Log ==
+
+= 1.1.2 =
+- Updated for WordPress 4.1
+
 = 1.1.1 =
 - Updated readme
 

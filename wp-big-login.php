@@ -7,10 +7,10 @@
  * @copyright 2014 EXED Internet
  *
  * @wordpress-plugin
- * Plugin Name: wp-big-login
+ * Plugin Name: BIG Login
  * Plugin URI: http://wordpress.org/plugins/wp-big-login/
- * Description: Let you login with a big number to a custom set URL
- * Version:     1.1.1
+ * Description: Let you login with a BIG number to a custom set URL
+ * Version:     1.1.2
  * Author:      EXED Internet
  * Author URI:  http://exed.nl
  * License:     GPL-2.0+
